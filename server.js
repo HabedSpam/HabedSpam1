@@ -11,12 +11,12 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
-client6.login("");
+client.login("NzQ0MTg0MjMzNDg4Mjg1NzI3.XzfiGg.aks7I2PGm0WWik4u1KEoMofI7bg");
+client2.login("NzQ0MTgyNzU2OTYzMTIzMjYw.Xzfgtw.t6gIhCo5MpJ5dlncaZ7paIL70IM");
+client3.login("NzQ0MTgzNDM4ODc3MTMwNzgy.XzfhWQ.bqhYURj4iYudLMlYaTYvNJ8rSfc");
+client4.login("NzQ0MTg0OTYxNzk5ODE1MjM4.XzfinQ.vmZUfs7lLdXs_ZHhTrs5Oraibkc");
+client5.login("NzQ0MTg1NDg0NTM5OTg1OTQz.XzfjKg.gtIxA_p_eL98UMR6OKViZb2hDOU");
+client6.login("NzQ0MTg2MDQwNTI0MzQxMjk5.Xzfjsg.ow5Y028gDeSBqRQvB3p8rDYeX_Y");
 
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
